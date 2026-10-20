@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Donghwi Ko
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Donghwi Ko
 ---
 
 🎓 Sahmyook University — Computer Engineering (2026~) <br>
