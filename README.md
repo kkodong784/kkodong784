@@ -34,9 +34,6 @@
 - [사운드 스케이프](https://github.com/sahmyook-likelion-team3/soundscape-server) : 
 
 ---
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=hits&size=medium)](https://myhits.vercel.app)
-
----
 ![instagram](https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
