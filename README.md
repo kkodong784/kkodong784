@@ -30,6 +30,10 @@
 ---
 
 ### 🚀 Projects
+- [리클로](https://github.com/DUYUTHON-team13/reclo-server): 
+- [사운드 스케이프](https://github.com/sahmyook-likelion-team3/soundscape-server) : 
+
+---
 
 ![instagram](https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
