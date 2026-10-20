@@ -32,8 +32,8 @@
 ### 🚀 Projects
 
 
-<img src="https://img.shields.io/badge/instagram-#FF0069?style=for-the-badge&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/github-#181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
 
