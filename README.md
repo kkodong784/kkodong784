@@ -30,7 +30,7 @@
 ---
 
 ### 🚀 Projects
-- [리클로](https://github.com/DUYUTHON-team13/reclo-server): 
+- [리클로](https://github.com/DUYUTHON-team13/reclo-server) : 의류 폐기물 감소를 위한 AI 스타일링 서비스 
 - [사운드 스케이프](https://github.com/sahmyook-likelion-team3/soundscape-server) : 
 
 ---
