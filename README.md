@@ -32,7 +32,7 @@
 ### 🚀 Experiences
 - [리클로](https://github.com/DUYUTHON-team13/reclo-server) : 의류 폐기물 감소를 위한 AI 스타일링 서비스 (2026.05)
 - [사운드 스케이프](https://github.com/sahmyook-likelion-team3/soundscape-server) : 사진 속 분위기에 어울리는 음악을 추천하는 AI 서비스 (2026.08)
-- [FORGE]() : 개발자가 실제 수요를 확인한 뒤 서비스를 개발할 수 있도록 돕는 공동 개발 및 크라우드펀딩 플랫폼
+- [FORGE]() : 개발자가 실제 수요를 확인한 뒤 서비스를 개발할 수 있도록 돕는 공동 개발 및 크라우드펀딩 플랫폼 (2026.09 ~ 2026.11)
 
 ---
 ![instagram](https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)
